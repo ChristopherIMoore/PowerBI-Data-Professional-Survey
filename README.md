@@ -4,7 +4,7 @@
 * Use Power BI to clean the dataset so it can be used effectively
 * Create a Power BI visualisation
 
-# Context
+### Context
 This data set was a survey done by Alex the Analyst find out various parts of information about his view base's.
 
 ## Cleaning the data
